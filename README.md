@@ -1,5 +1,3 @@
-# codepath-IOS-prework-project
-Change background color with a button
 #App Brainstorming
 Submitted by: ** Rista Subedi **
 ##App Idea *SyncStrength*
